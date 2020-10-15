@@ -191,3 +191,8 @@ C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\View
 C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\Edit.cshtml.g.cs
 C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\Index.cshtml.g.cs
 C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
+C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\DEV\AppMvcBasica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp3.1\Razor\Views\Produtos\Index.cshtml.g.cs

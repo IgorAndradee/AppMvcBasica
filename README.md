@@ -1,2 +1,2 @@
 # AppMvcBasica
-Desenvolvendo uma aplicação MVC Core completa
+Desenvolvendo uma aplicação MVC Core basica.
